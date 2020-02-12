@@ -1,0 +1,5 @@
+-Crie uma classe Carro com os atributos:
+>Marca, Modelo, Ano, Variantes.
+
+Essa classe deve garantir que o Modelo, Marca e Ano
+sempre sejam passados na hora de instanciar um objeto.
