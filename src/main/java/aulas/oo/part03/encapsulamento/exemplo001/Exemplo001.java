@@ -10,9 +10,11 @@ public class Exemplo001 {
         System.out.println(eu.getDataNascimento());
         System.out.println(eu.calculaIdade());
 
-        eu.setNome("Marco Paulo");
+        eu.setNome("Novo Nome");
+
 
         System.out.println(eu.getNome());
+
 
     }
 }
